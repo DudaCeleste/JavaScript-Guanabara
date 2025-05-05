@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+    background-image: url(img/milagre-da-manha-para-vendedores.jpg);
+    background-blend-mode: hard-light;
+    background-size: cover;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    color: white;
+    font: normal 17pt Arial;
+    background-color: rgba(41, 32, 87, 0.315);
+    border-radius: 12px;
+  
+}
+
+section{
+    font: normal 17pt Arial;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.616);
+
+}
+
+div#msg{
+    display: flex;
+    justify-content: center;
+}
+
+#foto{
+    display: grid;
+}
+
+footer {
+    color: white;
+}
+
+
+#imagem{
+    width: 50%;
+    margin: auto;
+}
